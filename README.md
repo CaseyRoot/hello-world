@@ -1,2 +1,5 @@
 # hello-world
-Just another repository from GitHub tutorial.
+Hello!
+This is somee information in my read me file.  
+
+This is my first initial commit, no changes.
